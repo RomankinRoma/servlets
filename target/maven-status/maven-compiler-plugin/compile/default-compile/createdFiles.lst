@@ -1,0 +1,7 @@
+kz\iitu\javaee\RegistrationServlet.class
+kz\iitu\javaee\LogoutServlet.class
+kz\iitu\javaee\AuthenticationFilter.class
+kz\iitu\javaee\LoginServlet.class
+kz\iitu\javaee\ConfigDemoServlet.class
+kz\iitu\javaee\HelloServlet.class
+kz\iitu\javaee\RequestLoggingFilter.class
